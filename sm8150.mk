@@ -305,9 +305,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.lge_msmnile
 
-# LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.1-service.lge_msmnile
 
 # Media
 PRODUCT_COPY_FILES += \
